@@ -73,6 +73,22 @@ The bot will calculate the new expiration date by adding the selected duration t
 Once the renewal payment is made, the bot will confirm the extension of the subscription.
 ![7-ln_subscribe-renewal-payment.png](/img/7-ln_subscribe-renewal-payment.png)<br/><br/>
 
+### 📜 Transparent Logging for Administrators
+
+The bot ensures full transparency by providing an exclusive log channel that only the server administrators and the bot can view.<br/>
+This channel, configured during the /ln_admin setup, will display detailed logs of all transactions, including:<br/>
+
+> Subscription requests and renewals.<br/>
+> Payment hashes and Lightning invoices.<br/>
+> Payment confirmation and status updates.<br/>
+> Commission calculations and net values sent to the configured wallet.<br/>
+> Role assignments for subscribed users.<br/>
+
+![8-log-channel.png](/img/8-log-channel.png)<br/><br/>
+
+This log channel helps administrators keep track of all activities related to subscriptions and payments in a clear and organized manner.<br/>
+It ensures that all actions performed by the bot are visible and traceable, maintaining accountability and transparency.<br/>
+
 ## 🚀 Ready to Start?
 Add the Lightning Role Bot to your server and automate everything with seamless Lightning Network payments!
 [Lightning BOT on Top.GG](https://top.gg/bot/1326896087914778635)
