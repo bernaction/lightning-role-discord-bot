@@ -81,7 +81,7 @@ This channel, configured during the /ln_admin setup, will display detailed logs 
 > Subscription requests and renewals.<br/>
 > Payment hashes and Lightning invoices.<br/>
 > Payment confirmation and status updates.<br/>
-> Commission calculations and net values sent to the configured wallet.<br/>
+> Commission calculations and net values sent to the configured wallet. (5%)<br/>
 > Role assignments for subscribed users.<br/>
 
 ![8-log-channel.png](/img/8-log-channel.png)<br/><br/>
