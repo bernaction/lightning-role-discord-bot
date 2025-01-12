@@ -28,7 +28,7 @@ Is the ultimate solution for managing Discord subscriptions using the Lightning 
 
 ## 📖 How to Use Lightning Role Bot
 Step 1: Accept Terms and Conditions
-After installing the bot, you must accept the terms and conditions before using it. 
+After installing the bot, you must accept the terms and conditions before using it.
 The terms will automatically appear when you type any command.
 
 ![img1](/img/1-terms.png)
