@@ -1,3 +1,5 @@
+[Lightning BOT on Top.GG](https://top.gg/bot/1326896087914778635)
+<br/>
 # ⚡ Lightning Role Bot
 Is the ultimate solution for managing Discord subscriptions using the Lightning Network! 🚀
 
@@ -90,6 +92,6 @@ This log channel helps administrators keep track of all activities related to su
 It ensures that all actions performed by the bot are visible and traceable, maintaining accountability and transparency.<br/>
 
 ## 🚀 Ready to Start?
-Add the Lightning Role Bot to your server and automate everything with seamless Lightning Network payments!
+Add the Lightning Role Bot to your server and automate everything with seamless Lightning Network payments!<br/>
 [Lightning BOT on Top.GG](https://top.gg/bot/1326896087914778635)
 
